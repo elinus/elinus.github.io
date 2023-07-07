@@ -1,0 +1,21 @@
+.outer {
+    background-color: silver;
+    text-align: center;
+    margin-bottom: 10%;
+    font-family: arial;
+    font-size: 24px;
+    padding-bottom: 5%;
+}
+
+img {
+    margin-top: 10%;
+    border: 10px greenyellow solid;
+}
+
+h1 {
+    color: gold;
+}
+
+p {
+    color: coral;
+}
